@@ -10,3 +10,5 @@ Repozytorium pomocnicze do zdobywania darmowych odznak na profilu GitHub.
 - Pair Extraordinaire with rookgaard
 
 - Pull Shark batch PR 1
+
+- Pull Shark batch PR 2
