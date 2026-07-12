@@ -20,3 +20,5 @@ Repozytorium pomocnicze do zdobywania darmowych odznak na profilu GitHub.
 - Extra PR 6
 
 - Extra PR 7
+
+- Extra PR 8
