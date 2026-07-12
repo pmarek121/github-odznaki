@@ -8,3 +8,5 @@ Repozytorium pomocnicze do zdobywania darmowych odznak na profilu GitHub.
 - Pair Extraordinaire badge (with nekiro)
 
 - Pair Extraordinaire with rookgaard
+
+- Pull Shark batch PR 1
