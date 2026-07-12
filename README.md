@@ -6,3 +6,5 @@ Repozytorium pomocnicze do zdobywania darmowych odznak na profilu GitHub.
 - Pull Shark badge setup
 
 - Pair Extraordinaire badge (with nekiro)
+
+- Pair Extraordinaire with rookgaard
