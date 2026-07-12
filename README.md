@@ -12,3 +12,5 @@ Repozytorium pomocnicze do zdobywania darmowych odznak na profilu GitHub.
 - Pull Shark batch PR 1
 
 - Pull Shark batch PR 2
+
+- Pull Shark batch PR 3
