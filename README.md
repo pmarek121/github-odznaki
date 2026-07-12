@@ -4,3 +4,5 @@ Repozytorium pomocnicze do zdobywania darmowych odznak na profilu GitHub.
 
 - YOLO badge setup
 - Pull Shark badge setup
+
+- Pair Extraordinaire badge (with nekiro)
