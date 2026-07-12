@@ -28,3 +28,5 @@ Repozytorium pomocnicze do zdobywania darmowych odznak na profilu GitHub.
 - Extra PR 10
 
 - Extra PR 11
+
+- Silver tier PR 12
